@@ -9,7 +9,7 @@ Adding high-demand cuisines like North Indian and Chinese to these restaurants.
 Elevating dining experiences through premium options, including menu refinement, improved service, and enhanced features like online ordering and table booking.
 The objective is to bridge the gap between customer preferences and existing restaurant offerings, driving better ratings and expanding the reach of premium dining establishments. 
 
-#Steps Followed
+# Steps Followed
 1. Data Collection and Preparation
 2. Exploratory Data Analysis (EDA)
 3. Data Visualization
